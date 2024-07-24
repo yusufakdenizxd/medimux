@@ -1,0 +1,3 @@
+[submodule "medimux-server"]
+	path = medimux-server
+	url = https://github.com/yusufakdenizxd/medimux-server.git
